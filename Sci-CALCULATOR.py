@@ -1,5 +1,5 @@
-n=True
 import math
+n=True
 while (n):
     n=n+1
     print("""Press 
@@ -69,3 +69,5 @@ while (n):
         break
     else:
         print()
+Footer
+
